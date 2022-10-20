@@ -1,1 +1,2 @@
+# The physical trust stack for web3
 The RDDL Network is a decentralised, industrial machine-powered blockchain protocol, which uses a unique Proof-of Productivity (PoP) consensus mechanism that proves identity, data accuracy and usage for all types of machines. It addresses infrastructure and standards as a whole and is designed to shape the future of interconnected token economies for the fourth industrial revolution.
